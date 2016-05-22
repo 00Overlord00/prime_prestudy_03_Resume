@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+
+
+
+
+
+i{
+
+	
+
+color:grey;	
+
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:30px;
+
+}
+
+
+
+
+h3{
+
+	background-color:rgba(220,220,220,1.00);
+
+	color:rgba(0,0,0,1.00);		
+
+}
+
+.pageWrapper {
+
+	width:600px;
+
+	margin:auto;
+
+	position:relative;
+
+}
+
+.blockText {
+	background-color:darkgrey;
+	display:none;
+	margin:10px;
+	border:5px;
+	border-color:black;
+}
+.header{
+	background-color:rgba(220,220,220,1.00);
+
+	color:rgba(0,0,0,1.00);		
+
+}
+.header h1{
+	text-decoration: underline;
+}
+.employmentBody1, .employmentBody2, .employmentBody3 {
+	border: 5px;
+	background-color:rgba(245,245,245,1.00);
+}
+
+.employmentBody1{
+
+	column-count: 3;
+}
+
+
+
+
+.employmentBody2{
+
+	column-count: 3;
+}
+
+.employmentBody3{
+
+	column-count: 3;
+}
+ul li {
+	padding-bottom: 16px;
+}
